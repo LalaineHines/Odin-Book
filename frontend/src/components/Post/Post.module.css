@@ -1,0 +1,47 @@
+.post {
+  background-color: white;
+  margin: 2rem;
+  padding: 2rem;
+  border-radius: 2rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: black;
+  min-width: 50%;
+}
+
+.post > * {
+  margin: 0.3rem;
+  max-width: 80%;
+}
+
+.post u {
+  font-size: 1.5rem;
+}
+
+.post p {
+  font-size: 2rem;
+}
+
+.post button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.post svg {
+  height: 1.4rem;
+}
+
+.send {
+  background-color: rgb(228, 228, 228);
+  padding: 0.5rem;
+  border-radius: 2rem;
+}
+
+.comment {
+  margin: 1rem;
+  background-color: white;
+}

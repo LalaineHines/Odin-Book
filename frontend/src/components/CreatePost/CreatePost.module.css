@@ -1,0 +1,45 @@
+.container h2 {
+  font-size: 2rem;
+}
+
+.container span {
+  font-size: 1.5rem;
+}
+
+.container {
+  text-align: center;
+}
+
+.form div {
+  margin: 1rem;
+}
+
+.form textarea {
+  font-size: 1rem;
+}
+
+.content {
+  height: 5rem;
+  overflow-wrap: break-word;
+  resize: vertical;
+  width: 100%;
+}
+
+.submit {
+  background-color: white;
+  border: none;
+  border-radius: 2rem;
+  padding: 1rem;
+  margin: 1rem;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.home {
+  background-color: white;
+  border: none;
+  border-radius: 2rem;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}

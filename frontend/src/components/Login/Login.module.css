@@ -1,0 +1,39 @@
+.container {
+  min-height: 100vh;
+}
+
+.container h2 {
+  font-size: 3rem;
+}
+
+.container span {
+  font-size: 2rem;
+}
+
+.container input {
+  font-size: 1rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.submit {
+  background-color: white;
+  border: none;
+  border-radius: 2rem;
+  padding: 1rem;
+  margin: 1rem;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+.home {
+  background-color: white;
+  border: none;
+  border-radius: 2rem;
+  padding: 0.5rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
